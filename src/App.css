@@ -1,0 +1,12 @@
+.app {
+  text-align: center;
+}
+
+#list{
+  font-style: italic ;
+  font-size: x-large;
+}
+
+li {
+  list-style-type: none;
+} 
